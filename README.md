@@ -1,6 +1,1 @@
-
-#Outreachy internship contribution#
-Task: T418285
-Languages: HTML/CSS/JavaScript
-
-
+A JavaScript script to manipulate a JSON object and print it in a human-readable format.
